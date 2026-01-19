@@ -36,7 +36,7 @@ department referrals, and satisfaction scores to support operational decision-ma
 ---
 
 ## 📂 Files Included
-- excel_dashboard_hospital_emergency _room.xlsx
+- ![Download Excel File]https://github.com/TufailAnalytics/hospital-er-dashboard-excel/raw/2c8556b82121564e58c3de030cf159483d00dc82/excel_dashboard_hospital_emergency%20_room.xlsx
 
 ## 📸 Dashboard Preview
 
