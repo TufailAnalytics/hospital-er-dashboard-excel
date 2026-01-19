@@ -42,7 +42,7 @@ department referrals, and satisfaction scores to support operational decision-ma
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Excel Dashboard of Hospital emergency room 1.png)
+![Dashboard Overview](screenshots/hospital_emergency_room_dashboard.png)
 
 ### Patient Analysis
 ![Patient Analysis](Excel Dashboard of Hospital emergency room 2.png)
