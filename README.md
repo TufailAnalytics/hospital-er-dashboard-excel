@@ -44,12 +44,14 @@ department referrals, and satisfaction scores to support operational decision-ma
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/hospital_emergency_room_dashboard.png)
 
-### Patient Analysis
-![Patient Analysis](Excel Dashboard of Hospital emergency room 2.png)
+### Showing daily Visit trend of No of Patient
+![Showing daily Visit trend of No of Patient](screenshots/hospital_emergency_roomd_dashboard_1.png)
 
-### Department Referral
-![Department Referral](Excel Dashboard of Hospital emergency room 3.png)
+### Use an Area Chart to highlight Daily trend of wait time 
+![Use an Area Chart to highlight Daily trend of wait time ](screenshots/hospital_emergency_room_dashboard_2.png)
 
+### Use an Area to highlight Patient Satisfaction Score
+![Use an Area to highlight Patient Satisfaction Score](screenshots/hospital_emergency_room_dashboard_3.png)
 
 
 
