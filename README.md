@@ -37,7 +37,6 @@ department referrals, and satisfaction scores to support operational decision-ma
 
 ## 📂 Files Included
 - Excel dashboard file (.xlsx)
-- Dashboard screenshots
 
 ## 📸 Dashboard Preview
 
@@ -47,11 +46,11 @@ department referrals, and satisfaction scores to support operational decision-ma
 ### Showing daily Visit trend of No of Patient
 ![Showing daily Visit trend of No of Patient](screenshots/hospital_emergency_roomd_dashboard_1.png)
 
-### Use an Area Chart to highlight Daily trend of wait time 
+### Use an Area Chart to Highlight Daily trend of wait time 
 ![Use an Area Chart to highlight Daily trend of wait time ](screenshots/hospital_emergency_room_dashboard_2.png)
 
 ### Use an Area to highlight Patient Satisfaction Score
-![Use an Area to highlight Patient Satisfaction Score](screenshots/hospital _emergency_room_dashboard_3.png)
+![Use an Area to Highlight Patient Satisfaction Score](screenshots/hospital_emergency_room_dashboard_3.png)
 
 
 
@@ -64,6 +63,4 @@ It reflects real-world healthcare analytics use cases and is suitable for busine
 
 ---
 
-## 📸 Dashboard Preview
-(See screenshots folder for dashboard images)
 
