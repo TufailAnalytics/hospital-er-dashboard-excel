@@ -49,8 +49,8 @@ department referrals, and satisfaction scores to support operational decision-ma
 ### Use an Area Chart to Highlight Daily trend of wait time 
 ![Use an Area Chart to highlight Daily trend of wait time ](screenshots/hospital_emergency_room_dashboard_2.png)
 
-### Use an Area to highlight Patient Satisfaction Score
-![Use an Area to Highlight Patient Satisfaction Score](screenshots/hospital_emergency_room_dashboard_3.png)
+### Use an Area Chart to highlight Patient Satisfaction Score
+![Use an Area Chart to Highlight Patient Satisfaction Score](screenshots/hospital_emergency_room_dashboard_3.png)
 
 
 
